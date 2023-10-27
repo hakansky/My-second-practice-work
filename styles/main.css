@@ -3,7 +3,7 @@ body {
     color: rgb(16,16,16);
     @font-face {
         font-family: Montserrat-Medium;
-        src: url(./fonts/Montserrat-Medium.tff);
+        src: url(../fonts/Montserrat-Medium.tff);
     }
     font-family: Montserrat;
     box-sizing: border-box;
