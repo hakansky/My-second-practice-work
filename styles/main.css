@@ -136,6 +136,7 @@ section main .text .button button:hover {
 }
 .sec3 .container {
     display: flex;
+    /*flex-wrap: wrap;*/
     gap: 20px;
 }
 .sec3 .container h2 {
